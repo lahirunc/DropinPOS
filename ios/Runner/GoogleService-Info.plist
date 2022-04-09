@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>904869100912-lesgmvqs0svbgerf7vud8v94eifutnqk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.904869100912-lesgmvqs0svbgerf7vud8v94eifutnqk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDnAq4PnKNM2uV_FT_wM2POxrb15mP3jc4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>904869100912</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>solution22.lahiru.dropinPosV2</string>
+	<key>PROJECT_ID</key>
+	<string>restaurantpos-6ceb4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>restaurantpos-6ceb4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:904869100912:ios:72b7128c5ea530e14d63b5</string>
+</dict>
+</plist>
